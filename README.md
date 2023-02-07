@@ -1,6 +1,6 @@
 👋 Hi, I’m @jessicastow
 
-👀 I’m interested in: data analysis and biology. 
+👀 I’m interested in: data science and biology. 
 
 🌱 I’m currently learning: Python, R, SQL and Tableau. 
 
