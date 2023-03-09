@@ -1,4 +1,4 @@
-👋 Hi there, I’m @jessicastow
+👋 Hi there, I’m Jessica Stow!
 
 👩‍🔬 I am a science graduate from the University of Cape Town & Stellenbosch University.
 
