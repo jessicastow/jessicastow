@@ -1,6 +1,6 @@
 👋 Hi there, I’m Jess!
 
-👩‍🔬 I am a science graduate from the University of Cape Town & Stellenbosch University.
+👩‍🔬 I am a science (BScHons) graduate from the University of Cape Town & Stellenbosch University.
 
 👀 I’m interested in: data science and biology. 
 
