@@ -10,7 +10,7 @@
 
 📫 How to reach me: stowjess@gmail.com
 
-🤝 Add me on [LinkedIn](https://www.linkedin.com/in/jessicasarahstow/)!
+🤝 Add me on [LinkedIn](https://www.linkedin.com/in/jessicasarahstow/) or follow me on [ResearchGate](https://www.researchgate.net/profile/Jessica-Stow)!
 
 <!---
 jessicastow/jessicastow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
