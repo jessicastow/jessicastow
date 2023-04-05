@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning: Python, R, SQL and Tableau. 
 
-📍: I'm currently based between the Mentawai Islands, Indonesia and Cape Town, South Africa.
+📍 I'm currently based between the Mentawai Islands, Indonesia and Cape Town, South Africa.
 
 📫 How to reach me: stowjess@gmail.com
 
