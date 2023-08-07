@@ -8,7 +8,7 @@
 
 📖 I'm currently learning: Machine Learning, and also improving my Excel and Tableau skills. I'm also working on expanding my data science portfolio. 
 
-📍 I'm currently based: in Cape Town, South Africa.
+📍 I'm currently based in: Cape Town, South Africa.
 
 📫 How to reach me: stowjess@gmail.com
 
