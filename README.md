@@ -1,6 +1,6 @@
 👋 Hi there, I’m Jess!
 
-👩‍🔬 I am a science (BScHons) graduate from the University of Cape Town & Stellenbosch University, currently working remotely as a data analyst whilst tutoring two teenagers that are homeschooled in Cambridge IGCSE and AS-Level subjects. 
+👩‍🔬 I am a science (BScHons) graduate from the University of Cape Town & Stellenbosch University, currently working remotely as a data analyst/engineer associate at [Calybre Global](https://www.calybre.global/).
 
 👀 I’m interested in: data science and biology. 
 
@@ -8,7 +8,7 @@
 
 📖 I'm currently learning: Machine Learning, and also improving my Excel and Tableau skills. I'm also working on expanding my data science portfolio. 
 
-📍 I'm currently based: between the Mentawai Islands, Indonesia and Cape Town, South Africa.
+📍 I'm currently based: in Cape Town, South Africa.
 
 📫 How to reach me: stowjess@gmail.com
 
