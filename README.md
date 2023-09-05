@@ -4,7 +4,7 @@
 
 👀 I’m interested in: data science and biology. 
 
-🌱 My coding skillset includes: Python, R, SQL and Tableau. 
+🌱 My coding skillset includes: Python, R, SQL, PowerBI and Tableau. 
 
 📖 I'm currently learning: Machine Learning, and also improving my Excel and Tableau skills. I'm also working on expanding my data science portfolio. 
 
