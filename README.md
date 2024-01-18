@@ -1,6 +1,6 @@
 👋 Hi there, I’m Jess!
 
-👩‍🔬 I am a MSc Data Science student at the [University of Cape Town](https://science.uct.ac.za/data-science/msc-data-science-program-uct) and full-time Data Analyst/Engineer Associate at [Calybre Global](https://www.calybre.global/).
+👩‍🔬 I am a MSc Data Science student at the [University of Cape Town](https://science.uct.ac.za/data-science/msc-data-science-program-uct) & full-time Data Analyst/Engineer Associate at [Calybre Global](https://www.calybre.global/).
 
 👀 I’m interested in: data science, biology and education. 
 
