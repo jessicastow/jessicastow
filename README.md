@@ -6,7 +6,7 @@
 
 🌱 My coding skillset includes: Python, R, SQL and PowerBI. 
 
-📖 I'm currently learning: Machine Learning, and also improving my Excel and Tableau skills. I'm also working on building my data science portfolio. 
+📖 I'm currently learning: Dimensional Modelling as part of my upskilling at [Calybre Global](https://www.calybre.global/), Supervised Machine Learning and Exploratory Data Analysis at (https://science.uct.ac.za/data-science/msc-data-science-program-uct) I'm also working on building my data science portfolio. 
 
 📍 I'm currently based in: Cape Town, South Africa.
 
