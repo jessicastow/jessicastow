@@ -1,12 +1,12 @@
 👋 Hi there, I’m Jess!
 
-👩‍🔬 I am a science (BScHons) graduate from the University of Cape Town & Stellenbosch University, currently working remotely as a data analyst/engineer associate at [Calybre Global](https://www.calybre.global/).
+👩‍🔬 I am a MSc Data Science student at the University of Cape Town whilst working remotely as a Data Analyst/Engineer Associate at [Calybre Global](https://www.calybre.global/).
 
-👀 I’m interested in: data science and biology. 
+👀 I’m interested in: data science, biology and education. 
 
-🌱 My coding skillset includes: Python, R, SQL, PowerBI and Tableau. 
+🌱 My coding skillset includes: Python, R, SQL and PowerBI. 
 
-📖 I'm currently learning: Machine Learning, and also improving my Excel and Tableau skills. I'm also working on expanding my data science portfolio. 
+📖 I'm currently learning: Machine Learning, and also improving my Excel and Tableau skills. I'm also working on building my data science portfolio. 
 
 📍 I'm currently based in: Cape Town, South Africa.
 
