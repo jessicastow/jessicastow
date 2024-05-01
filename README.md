@@ -10,7 +10,7 @@
 
 📍 I'm currently based in: Cape Town, South Africa.
 
-📫 How to reach me: stowjess@gmail.com
+📫 You can reach me by emailing: stowjess@gmail.com
 
 🤝 Add me: on [LinkedIn](https://www.linkedin.com/in/jessicasarahstow/) or follow me on [ResearchGate](https://www.researchgate.net/profile/Jessica-Stow)!
 
