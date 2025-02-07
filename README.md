@@ -1,6 +1,6 @@
 👋 Hi there, I’m Jess!
 
-👩🏻‍💻 I am a MSc Data Science student at the [University of Cape Town](https://science.uct.ac.za/data-science/msc-data-science-program-uct) & full-time Junior Data Scientist at [EPCON](epcon.ai).
+👩🏻‍💻 I am a MSc Data Science student at the [University of Cape Town](https://science.uct.ac.za/data-science/msc-data-science-program-uct) & full-time Junior Data Scientist at [EPCON](https://www.epcon.ai).
 
 👀 I’m interested in: data science, biology and education. 
 
