@@ -1,4 +1,6 @@
-👋 Hi there, I’m Jess!
+👋 Hi there, I’m Jess! 
+
+📍 I'm currently based in: Cape Town, South Africa.
 
 👩🏻‍💻 I am a MSc Data Science Candidate at the [University of Cape Town](https://science.uct.ac.za/data-science/msc-data-science-program-uct) &  Data Scientist at [EPCON](https://www.epcon.ai).
 
@@ -8,11 +10,11 @@
 
 📖 I'm currently completing masters level coursework in:  Exploratory Data Analysis, Supervised and Unsupervised Learning, Data Visualisation, Databases for Data Scientists, Data Science for Industry, and Statistical and High Performance Computing at the University of Cape Town. 
 
-📖 I'm also busy completing my masters dissertation: Predicting Avalanche risk in Scotland using Environmental Covariates.
+📖 I'm also busy completing my masters dissertation: Predicting Avalanche Risk in Scotland using Environmental Covariates.
 
 🧑🏻‍🔬 Professional & Research Focus: I build geospatial and statistical models for public health decision-making, focusing on TB screening and health system vulnerability across lower and middle income countries worldwide. Find out more about some of the projects I am working on at EPCON [here](https://www.epcon.ai/our-presence).
 
-📍 I'm currently based in: Cape Town, South Africa.
+🌍 Interests Outside Work: SCUBA & free-diving 🤿, [Underwater Photography](https://www.instagram.com/betweenthekelp/) 📷🫧, Travel 🌍, & Sudoku 👾
 
 📫 You can reach me by emailing: stowjess@gmail.com
 
