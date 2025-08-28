@@ -4,7 +4,7 @@
 
 👀 I’m interested in: data science 🔍, health 🫀, biology 🌱 and education 🎓. 
 
-🌱 My coding skillset includes: Python, R, and SQL. | Tools: Git, NiFi, Apache Superset, Jupyter, Shiny.
+🌱 My coding skillset includes: Python, R, and SQL. | Tools: Git, NiFi, Apache Superset, Jupyter, QGIS, Shiny.
 
 📖 I'm currently completing masters level coursework in:  Exploratory Data Analysis, Supervised and Unsupervised Learning, Data Visualisation, Databases for Data Scientists, Data Science for Industry, and Statistical and High Performance Computing at the University of Cape Town. 
 
