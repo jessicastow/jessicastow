@@ -1,7 +1,5 @@
 👋 Hi there, I’m Jess! 
 
-📍 I'm currently based in: Cape Town, South Africa.
-
 👩🏻‍💻 I am a MSc Data Science Candidate at the [University of Cape Town](https://science.uct.ac.za/data-science/msc-data-science-program-uct) &  Data Scientist at [EPCON](https://www.epcon.ai).
 
 👀 I’m interested in: data science 🔍, health 🫀, biology 🌱 and education 🎓. 
