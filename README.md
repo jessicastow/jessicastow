@@ -12,7 +12,7 @@
 
 🧑🏻‍🔬 Professional & Research Focus: I build geospatial and statistical models for public health decision-making, focusing on TB screening and health system vulnerability across lower and middle income countries worldwide. Find out more about some of the projects I am working on at EPCON [here](https://www.epcon.ai/our-presence).
 
-🌍 My 5-9 after my 9-5: SCUBA & free-diving 🤿, [Underwater Photography](https://www.instagram.com/betweenthekelp/) 📷🫧, Travel 🌍, & Sudoku 👾
+🌍 My 5-9 after my 9-5 is spent doing the following: SCUBA & free-diving 🤿, [Underwater Photography](https://www.instagram.com/betweenthekelp/) 📷🫧, Travel 🌍, & Sudoku 👾
 
 📫 You can reach me by emailing: stowjess@gmail.com
 
