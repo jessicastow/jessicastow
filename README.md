@@ -1,14 +1,12 @@
 👋 Hi there, I’m Jess! 
 
-👩🏻‍💻 I am a MSc Data Science Candidate at the [University of Cape Town](https://science.uct.ac.za/data-science/msc-data-science-program-uct) &  Data Scientist at [EPCON](https://www.epcon.ai).
+👩🏻‍💻 I am a Data Scientist at [EPCON](https://www.epcon.ai) & final year MSc Data Science Candidate at the [University of Cape Town](https://science.uct.ac.za/data-science/msc-data-science-program-uct).
 
-👀 I’m interested in: data science 🔍, health 🫀, biology 🌱 and education 🎓. 
+👀 I’m interested in: data science 🔍, public health 🫀, biology 🌱 and education 🎓. 
 
-🌱 My coding skillset includes: Python, R, and SQL. | Tools: Git, NiFi, Apache Superset, Jupyter, QGIS, Shiny.
+🌱 My coding skillset includes: Python, R, and SQL. | Tools: Apache NiFi, Apache Superset, QGIS, and Shiny.
 
-📖 I'm currently completing masters level coursework in:  Exploratory Data Analysis, Supervised and Unsupervised Learning, Data Visualisation, Databases for Data Scientists, Data Science for Industry, and Statistical and High Performance Computing at the University of Cape Town. 
-
-📖 I'm also busy completing my masters dissertation focussing on: Predicting Avalanche Risk in Scotland using Environmental Covariates.
+📖 I'm currently busy completing my masters dissertation focussing on: Predicting Avalanche Risk in Scotland using Environmental Covariates (using Generalised Additive Models).
 
 🧑🏻‍🔬 Professional & Research Focus: I build geospatial and statistical models for public health decision-making, focusing on TB screening and health system vulnerability across lower and middle income countries worldwide. Find out more about some of the projects I am working on at EPCON [here](https://www.epcon.ai/our-presence).
 
